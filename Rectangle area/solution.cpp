@@ -21,4 +21,5 @@ class RectangleArea : public Rectangle{
     void display(){
         cout<<width*height;
     }
+    
 };
